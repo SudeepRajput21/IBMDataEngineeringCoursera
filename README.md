@@ -5,7 +5,7 @@ By the end of this Professional Certificate, you will be able to explain and per
 
 Each course includes numerous hands-on labs & projects to apply the concepts and skills you learn. The program will culminate in a Capstone Project where you will bring together all of these skills to develop and implement an entire data platform with various data repositories and pipelines to address a real-world inspired data analytics problem.
 
-##This professional certificate contains the following courses:
+This professional certificate contains the following courses:
 1. Introduction to Data Engineering
 2. Python for Data Science, AI & Development
 3. Python Project for Data Engineering
